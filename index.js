@@ -1,3 +1,9 @@
+/*
+ * OAuth App
+ * description: App to learn and practice OAuth using github accounts.
+ * author: @jbalsamo
+ * license: MIT
+ */
 const express = require("express");
 const app = express();
 const port = 3000;
